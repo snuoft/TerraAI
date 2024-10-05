@@ -1,5 +1,5 @@
 # TerraAI: Enhancing Communities with AI-Driven Earthflow Preparedness
-**Get access to your area's landslide proneness and geographical insights with just your location, built with NVIDIA AI Workbench and CUDA!**
+**Get access to your area's landslide proneness and geographical insights with just your location, powered by NVIDIA AI Workbench and CUDA!**
 
 ---
 
