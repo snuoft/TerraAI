@@ -1,0 +1,7 @@
+jupyterlab>3.0
+gradio
+seaborn
+transformers
+geopy
+pandas
+bs4
